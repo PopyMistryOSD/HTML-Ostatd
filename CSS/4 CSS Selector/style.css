@@ -1,0 +1,45 @@
+/* element selector
+h1{
+    color:red;
+    font-size: 50px;
+
+}
+*/
+
+/* class selector
+.my-text-style{
+    color:blue;
+    font-size: 60px;
+}
+
+*/
+/* id selector. id ar name sob somoy alada alada hoi
+#my-id{
+    color:blue;
+    font-size: 50px;
+}
+#your-id{
+    color:blueviolet;
+    font-size: 40px;
+}
+#group-id{
+    color:yellow;
+    font-size:70px;
+}
+*/
+
+/* universal selectors
+
+*{
+    color:yellowgreen;
+    font-size: 50px;
+}
+*/
+/* Group selector
+
+h1,h2,h3,p{
+    color:rgb(205, 50, 169);
+    font-size: 50px;
+
+}
+*/

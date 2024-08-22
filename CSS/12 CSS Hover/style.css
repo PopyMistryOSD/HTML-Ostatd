@@ -1,0 +1,10 @@
+.my-button{
+    background-color: brown;
+    border-radius: 6px;
+    color: white;
+    padding: 20px;
+}
+.my-button:hover{
+    background-color: green;
+
+}

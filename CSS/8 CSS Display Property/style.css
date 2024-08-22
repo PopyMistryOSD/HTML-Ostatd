@@ -1,0 +1,16 @@
+p{
+    display: inline-block;
+}
+h1{
+    display: block;
+}
+
+p{
+    display: run-in;
+}
+p{
+    display: none;
+}
+p{
+    display: inline-flex;
+}

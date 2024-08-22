@@ -1,0 +1,25 @@
+
+p{
+    text-align: center;
+    color: blue;
+}
+
+.center{
+    text-align: center;
+    color:blue;
+}
+
+#para1{
+    text-align: center;
+    color:blue;
+}
+
+*{
+    color:green;
+    font: size 20px;
+}
+
+h1, h2,p{
+    text-align: center;
+    color:blue;
+}

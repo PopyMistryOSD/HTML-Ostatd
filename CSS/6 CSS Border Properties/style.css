@@ -1,0 +1,23 @@
+h1{
+    border-style: dotted;
+}
+h2{
+    border-style:dashed ;
+}
+h3{
+    border-style: double;
+}
+h4{
+    border-style: groove;
+}
+h5{
+    border-style: ridge;
+}
+h6{
+    border-style: inset;
+}
+p{
+    border-style: dashed;
+    border-color: yellowgreen;
+    
+}

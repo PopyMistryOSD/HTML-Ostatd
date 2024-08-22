@@ -1,0 +1,24 @@
+.my-button{
+    background-color: brown;
+    border-radius: 6px;
+    color: white;
+    padding: 20px;
+}
+.my-button{
+    background-color:green !important;
+    border-radius: 6px;
+    color: white;
+    padding: 20px;
+}
+.my-button{
+    background-color: yellow !important;
+    border-radius: 6px;
+    color: white;
+    padding: 20px;
+}
+.my-button{
+    background-color: yellowgreen;
+    border-radius: 6px;
+    color: white;
+    padding: 20px;
+}

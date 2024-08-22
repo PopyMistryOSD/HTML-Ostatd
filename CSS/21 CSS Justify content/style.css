@@ -1,0 +1,9 @@
+.test{
+    display: flex;
+    justify-content: space-evenly;
+    /*justify-content: flex-end;*/
+    /*justify-content: center;*/
+    /*justify-content: flex-start;*/
+    /*justify-content: space-around;*/
+   /*justify-content: space-between;*/
+}

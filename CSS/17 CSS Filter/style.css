@@ -1,0 +1,15 @@
+img{
+    width: 500px;
+    height: 500px;
+    filter: brightness(200%);
+    filter: blur(2px);
+    filter: invert(60px);
+    filter: saturate(40px);
+    filter: drop-shadow(10px 20px 30px yellow);
+    filter: contrast(50%);
+    filter: opacity(40%);
+    filter: hue-rotate(240deg);
+    filter: grayscale(80%);
+    filter: sepia(90%);
+
+}

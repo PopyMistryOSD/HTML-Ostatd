@@ -1,0 +1,8 @@
+body{
+    background-color: brown;
+    background-image: url(popy-pic.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: fixed;
+    background-size: cover;
+}

@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Seymour+One&display=swap');
+
+:root{
+    --red-color:yellow;
+    --title-size:42px;
+}
+
+
+.my-text{
+    color: var(--red-color);
+    font-size:var(--title-size);
+    background-color: green;
+}
+
+#my-title{
+    color: var(--red-color);
+    font-size:var(--title-size); 
+    background-color: green;
+}
+
+li{
+    color:blue;
+    font-size: var(--title-size);
+
+
+}
+.btt{
+    cursor: all-scroll;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    background-color: blueviolet;
+    padding: 10px 60px 10px 60px;
+    margin: 20px 20px 20px 100px;
+}
+
+img{
+    filter:brightness();
+    height: 500px;
+    width: 560px;
+    float: left;
+}
+
+.my-article{
+    font-family: "Seymour One", sans-serif;
+    height: 100px;
+    width:800px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    line-height: 100%;
+    text-decoration: underline;
+    letter-spacing: 10px;
+}
